@@ -1,3 +1,4 @@
+//2 массива (3 задание)
 public class third {
     public static void main(String[] args)
     {

@@ -1,6 +1,6 @@
 import jdk.swing.interop.SwingInterOpUtils;
-
-public class first {
+//Массив из строчек в обратном порядке (2 задание)
+public class second {
     public static void main(String[] args)
     {
         String[] list = new String[10];

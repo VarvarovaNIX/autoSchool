@@ -1,3 +1,4 @@
+//Массив из чисел в обратном порядке (4 задание)
 public class fourth {
     public static void main(String[] args)
     {
